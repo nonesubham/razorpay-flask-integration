@@ -13,13 +13,13 @@ pip install razorpay
 ```
 client = razorpay.Client(auth=("rzp_id", "rzp_secret key"))
 ```
-##### [Index.html]("https://github.com/Subhamsaurav/razorpay-flask-integration/blob/master/main.py")  &nbsp;Line 5
+##### [Index.html]("https://github.com/Subhamsaurav/razorpay-flask-integration/blob/master/templates/index.html")  &nbsp;Line 5
 
 ```
 "key": "rzp_id"
 ```
 ## Change User Data
-##### [Index.html]("https://github.com/Subhamsaurav/razorpay-flask-integration/blob/master/main.py")  &nbsp;Line 13-17
+##### [Index.html]("https://github.com/Subhamsaurav/razorpay-flask-integration/blob/master/templates/index.html")  &nbsp;Line 13-17
 ```
     "prefill": {
         "name": "Gaurav Kumar",
